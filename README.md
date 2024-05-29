@@ -62,31 +62,31 @@ Here’s a visual representation of this architecture:
 
 User
 
- ➡
+ ⬇
  
 Route 53 (Custom Domain)
 
- ➡
+ ⬇
  
 CloudFront (CDN)
 
-➡ 
+⬇ 
 
 S3 (Static Web Content)
 
- ➡
+ ⬇
  
 API Gateway (API Management)
  
- ➡
+ ⬇
  
 Lambda (Backend Logic)
 
- ➡
+ ⬇  ⬇
  
 DynamoDB (Data Storage)   SNS (Notifications)
                         
-                         ➡
+                         ⬇
                          
                  Admin Email Notification
 
