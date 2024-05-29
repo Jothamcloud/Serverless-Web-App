@@ -56,8 +56,7 @@ The architecture of this serverless web application is as follows:
 
 Here’s a visual representation of this architecture:
 
-![Architecture Diagram](images/architecture-diagram.png)
-
+![Architecture Diagram](https://github.com/Jothamcloud/Serverless-Web-App/blob/master/Screenshot%202024-05-29%20093156.png)
 ### Textual Representation of the Architecture
 
 
@@ -142,15 +141,7 @@ DynamoDB (Data Storage)   SNS (Notifications)
 2. Create a new topic (e.g., FormSubmissionTopic).
 3. Subscribe your email to the topic.
 
-### Local Setup
 
-1. *Clone the repository*:
-   sh
-   git clone https://github.com/YOUR_USERNAME/serverless-web-app.git
-   cd serverless-web-app
-   
-
-2. *Install dependencies*:
    sh
    npm install
    
