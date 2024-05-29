@@ -95,9 +95,8 @@ DynamoDB (Data Storage)   SNS (Notifications)
 
 ### Prerequisites
 
-- Node.js and npm
 - AWS Management Console access
-- Serverless Framework installed globally (npm install -g serverless)
+- Serverless Framework 
 
 ### Deployment Steps
 
